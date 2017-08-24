@@ -1,3 +1,2 @@
 <h1>Area.az</h1>
-
-<a href = "Area.az-Demo/AreaLayout-new-nofilter (2).png">
+https://github.com/abiyevseymur/Area.az-Demo/blob/master/AreaLayout-new-nofilter%20(2).png
